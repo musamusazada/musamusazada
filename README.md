@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![]([https://tenor.com/view/shokka-halive2022-keyboard-keyboard-smash-typing-gif-24969376](https://imgur.com/gallery/bChIg0Z))
+![](https://imgur.com/gallery/bChIg0Z)
 
 <!--
 - 🔭 I’m currently working on ...
