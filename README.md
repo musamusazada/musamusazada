@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hi there 🐻👋 
+
+## Musa Musazada - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web Engineer
+
+<img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="100%" height="500"/>
 
 
-<img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="300" height="270"/>
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```typescript
+Implementing Notification and Chat Module Systems to NextJS Web App.
+```
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+	- Transition to NestJS
+	- Start a youtube channel on how web can be fun
+
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/insights/musamusazada)
 
 <!--
 - 🔭 I’m currently working on ...
