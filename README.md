@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<iframe src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/salesforce-bear-computer-work-from-home-1GEATImIxEXVR79Dhk">via GIPHY</a></p>
+<img src="https://giphy.com/embed/1GEATImIxEXVR79Dhk" width="100" height="100"/>
 
 <!--
 - 🔭 I’m currently working on ...
