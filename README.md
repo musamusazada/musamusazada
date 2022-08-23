@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="24969376" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shokka-halive2022-keyboard-keyboard-smash-typing-gif-24969376">Shokka Halive2022 GIF</a>from <a href="https://tenor.com/search/shokka-gifs">Shokka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://tenor.com/view/shokka-halive2022-keyboard-keyboard-smash-typing-gif-24969376)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
